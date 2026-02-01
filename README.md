@@ -96,6 +96,4 @@ Follow these steps to set up the project on your local machine:
 
 The app is deployed using the Streamlit platform directly from this GitHub repository. The deployment process involved generating a `requirements.txt` file and pushing the `app.py` and model files to GitHub.
 
-***
 
-**Credit:** Project based on the tutorial by "Tensor Titans".
