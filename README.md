@@ -1,6 +1,4 @@
-Here is the comprehensive `README.md` content for your GitHub repository, structured professionally and based entirely on the provided sources.
 
-***
 
 # House Price Prediction App 🏠
 
